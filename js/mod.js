@@ -1,5 +1,6 @@
 let modInfo = {
-	name: "The ??? Tree",
+	name: " incremnetal game
+	",
 	author: "nobody",
 	pointsName: "points",
 	modFiles: ["layers.js", "tree.js"],
@@ -7,11 +8,11 @@ let modInfo = {
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new Decimal (10), // Used for hard resets and new players
-	offlineLimit: 1,  // In hours
+	offlineLimit: 10000000000000000000000000  // In hours
 }
 
 // Set your version in num and name
-let VERSION = {
+let VERSION = {0929
 	num: "0.0",
 	name: "Literally nothing",
 }
